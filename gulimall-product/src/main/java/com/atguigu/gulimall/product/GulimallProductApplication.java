@@ -94,6 +94,7 @@ import org.springframework.session.data.redis.config.annotation.web.http.EnableR
 public class GulimallProductApplication {
 
     public static void main(String[] args) {
+        System.out.print("dierci");
         SpringApplication.run(GulimallProductApplication.class, args);
     }
 
