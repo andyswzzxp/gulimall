@@ -95,7 +95,7 @@ public class GulimallProductApplication {
 
     public static void main(String[] args) {
         System.out.print("dierci");
-        System.out.print("disanci");
+        System.out.print("disanci5");
         SpringApplication.run(GulimallProductApplication.class, args);
     }
 
