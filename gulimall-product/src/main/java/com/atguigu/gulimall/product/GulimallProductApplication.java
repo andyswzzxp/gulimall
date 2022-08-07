@@ -99,6 +99,7 @@ public class GulimallProductApplication {
         System.out.print("mastertest");
         System.out.print("disanci5-hotfixtest");
         System.out.print("push-testhahaha");
+        System.out.print("gitee");
         SpringApplication.run(GulimallProductApplication.class, args);
     }
 
